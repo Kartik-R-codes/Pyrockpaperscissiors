@@ -12,6 +12,9 @@ using the  random  python library, a randominteger ranging between 0 and 2 is ma
 
 the program uses a bunch of if-elif-else statements to figure out whether
  
-the output should pe win, tie or lose.
+the output should be win, tie or lose.
 
-you may take a look at the code to understand better.
+**you may take a look at the code to understand better.**
+
+
+**This probably won't be updated anytime soon as... what else can i add to rock paper scissiors?**
